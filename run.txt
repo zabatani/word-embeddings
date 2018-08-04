@@ -1,0 +1,2 @@
+python words_similarity.py data/wikipedia.sample.trees.lemmatized output/ex3 100 20 5 dependency 0.75
+python word2vec.py data/bow5.words data/bow5.contexts
